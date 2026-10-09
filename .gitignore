@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Raw large satellite and geospatial rasters (Do NOT push to GitHub)
+data/raw/
+*.zip
+*.tif
+*.tiff
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
