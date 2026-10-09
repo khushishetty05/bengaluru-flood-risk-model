@@ -256,15 +256,3 @@ The completion status of individual stages and the availability of their outputs
 
 ---
 
-## 11. Contributing
-
-Contributions to improve data quality, geospatial processing, risk modelling, validation, and visualization are welcome.
-
-Before contributing, verify that scripts run correctly and document any changes to data sources, assumptions, or processing steps.
-
----
-
-## License
-
-A license has not yet been specified. Add an appropriate license before distributing or reusing the project.
-
